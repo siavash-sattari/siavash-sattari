@@ -1,8 +1,12 @@
-### Hi there 👋
+<img width="1171" alt="Screen Shot 1402-01-26 at 14 01 39" src="https://user-images.githubusercontent.com/88406720/232208857-574a4451-5755-4968-86f0-a698c4525196.png">
+
+> I'm a highly motivated and experienced Frontend Developer with solid 3 years of building e-commerce and c2c applications. I’ve been working professionally as React developer for 2 years now. Moreover, I'm familiar with Backend technologies such as nodejs and express.js. My current goal is to become a excellent MERNStack Developer. I'm always willing to learn new things and i'm seeking a challenging opportunity to build large projects where my experience ,advanced skills and extensive training can be fully utilized.
+
+<a href="https://siavash-sattari.netlify.app/" target="_blank">See my PORTFOLIO</a>
+
+
 
 <!--
-**siavash-sattari/siavash-sattari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
