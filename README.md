@@ -2,19 +2,18 @@
 
 > I'm a highly motivated and experienced Frontend Developer with solid 3 years of building e-commerce and c2c applications. I’ve been working professionally as React developer for 2 years now. Moreover, I'm familiar with Backend technologies such as nodejs and express.js. My current goal is to become a excellent MERNStack Developer. I'm always willing to learn new things and i'm seeking a challenging opportunity to build large projects where my experience ,advanced skills and extensive training can be fully utilized.
 
-<a href="https://siavash-sattari.netlify.app/" target="_blank">See my PORTFOLIO</a>
+> Also, sharing knowledge has always been one of the most exciting things for me, and I sometimes produce content on <a href="https://virgool.io/@siavash_sattari" target="_blank">**virgool.io**.</a>
 
+<a href="https://siavash-sattari.netlify.app/" target="_blank">**See my PORTFOLIO**</a>
 
+<hr/>
 
-<!--
-Here are some ideas to get you started:
+🌱 I’m currently learning Expressjs, PWA, graphQL and Socket.io <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤩 Interested in Software Solutions, Algorithms & Design Patterns <br/>
+
+👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new things. <br/>
+
+📚 Love reading books on personal development.<br/>
+
+📫 How to reach me **siavash.sattari.dev@gmail.com**
