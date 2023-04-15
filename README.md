@@ -1,6 +1,6 @@
 <img width="1171" alt="Screen Shot 1402-01-26 at 14 01 39" src="https://user-images.githubusercontent.com/88406720/232208857-574a4451-5755-4968-86f0-a698c4525196.png">
 
-> I'm a highly motivated and experienced Frontend Developer with solid 3 years of building e-commerce and c2c applications. I’ve been working professionally as React developer for 2 years now. Moreover, I'm familiar with Backend technologies such as nodejs and express.js. My current goal is to become a excellent MERNStack Developer. I'm always willing to learn new things and i'm seeking a challenging opportunity to build large projects where my experience ,advanced skills and extensive training can be fully utilized.
+> I'm a highly motivated and experienced Front-end Developer with solid 3 years of building E-Commerce and C2C applications. I’ve been working professionally as React developer for 2 years now. Moreover, I'm familiar with Backend technologies such as Node.js and Express.js. My current goal is to become an excellent MERN Stack Developer. I'm always willing to learn new things and I'm seeking a challenging opportunity to build large projects where my experience, advanced skills, and extensive training can be fully utilized.
 
 > Also, sharing knowledge has always been one of the most exciting things for me, and I sometimes produce content on <a href="https://virgool.io/@siavash_sattari" target="_blank">**virgool.io**.</a>
 
