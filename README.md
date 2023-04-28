@@ -1,6 +1,6 @@
-<img width="1171" alt="Screen Shot 1402-01-26 at 14 01 39" src="https://user-images.githubusercontent.com/88406720/232208857-574a4451-5755-4968-86f0-a698c4525196.png">
+<img width="1158" alt="Screen Shot 1402-02-08 at 21 10 44" src="https://user-images.githubusercontent.com/88406720/235216828-ea8d591e-c187-4f5d-9255-cb21dc338f3b.png">
 
-> I'm a highly motivated and experienced Front-end Developer with solid 3 years of building E-Commerce and C2C applications. I’ve been working professionally as React developer for 2 years now. Moreover, I'm familiar with Backend technologies such as Node.js and Express.js. My current goal is to become an excellent MERN Stack Developer. I'm always willing to learn new things and I'm seeking a challenging opportunity to build large projects where my experience, advanced skills, and extensive training can be fully utilized.
+> I'm a highly motivated and efficient Front-end Developer with solid 3 years of experience. I have expertise in writing scalable code , which helps companies create and maintain a better code base. I'm always willing to learn new things and I'm seeking a challenging opportunity to build projects where my experience, skills and extensive training can be fully utilized. I aim to create engaging art that invites viewers to step forward and appreciate a conscious interactive experience.
 
 > Also, sharing knowledge has always been one of the most exciting things for me, and I sometimes produce content on <a href="https://virgool.io/@siavash_sattari" target="_blank">**virgool.io**.</a>
 
@@ -17,3 +17,5 @@
 📚 Love reading books on personal development.<br/>
 
 📫 How to reach me **siavash.sattari.dev@gmail.com**
+
+
