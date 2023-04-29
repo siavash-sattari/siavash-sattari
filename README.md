@@ -1,4 +1,5 @@
-<img width="1158" alt="Screen Shot 1402-02-08 at 21 10 44" src="https://user-images.githubusercontent.com/88406720/235216828-ea8d591e-c187-4f5d-9255-cb21dc338f3b.png">
+<img width="1120" alt="Screen Shot 1402-02-09 at 12 22 25" src="https://user-images.githubusercontent.com/88406720/235294174-a27c6846-4522-4f35-aaab-0d4ae5032aa7.png">
+
 
 > I'm a highly motivated and efficient Front-end Developer with solid 3 years of experience. I have expertise in writing scalable code , which helps companies create and maintain a better code base. I'm always willing to learn new things and I'm seeking a challenging opportunity to build projects where my experience, skills and extensive training can be fully utilized. I aim to create engaging art that invites viewers to step forward and appreciate a conscious interactive experience.
 
